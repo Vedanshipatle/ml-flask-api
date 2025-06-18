@@ -100,7 +100,6 @@ Both endpoints return a response like:
   "confidence": 0.95
 }
 
-# Deployment:
-Replit
+
 
 
